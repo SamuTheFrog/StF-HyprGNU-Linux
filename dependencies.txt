@@ -1,9 +1,0 @@
-network-manager
-nm-connection-editor
-firefox
-neofetch
-vim
-htop
-fish
-hyprpaper
-waybar
