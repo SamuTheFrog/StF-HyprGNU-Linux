@@ -4,3 +4,6 @@ firefox
 neofetch
 vim
 htop
+fish
+hyprpaper
+waybar
