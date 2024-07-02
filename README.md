@@ -23,5 +23,8 @@ Dependencies and instructions are found below.
 # Extra useful repositories
 * [zip] - for zipping files
 * [unzip] - for unzipping files
-* [paru] - AUR helper {automates AUR sourced package builds}
+* [paru] - AUR helper {automates AUR sourced package builds} (OPTIONAL)
 * [git] - for cloning git archives
+* [thunar] - GUI File explorer
+* [gvfs] - thunar extension
+* [udiskie] - Automount/Autoeject storage devices {works with Thunar} 
